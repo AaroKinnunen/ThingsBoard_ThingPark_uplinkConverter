@@ -1,0 +1,7 @@
+# ThingsBoard-ThingPark uplinkConverter
+This ThingsBoard uplink converter was done as part of my thesis.
+It is made to convert and decode data originally coming from Carlo Gavazzi EM24 and UWPA device that goes through Digitas ThingPark first.
+
+The development of the converter is based on this ThingsBoard manual and Carlo Gavazzis UWPA LoRa variables decoding manual.
+
+ThingsBoard manual: https://thingsboard.io/docs/samples/abeeway/tracker/
